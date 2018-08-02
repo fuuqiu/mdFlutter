@@ -1,0 +1,119 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u8bf4\u660e\u6587\u6863\n\n\n\u6240\u8c13\u5de5\u6b32\u5584\u5176\u4e8b\u5fc5\u5148\u5229\u5176\u5668\uff0c\u4f60\u60f3\u5f53\u4e00\u4e2a\u4f18\u79c0\u7684\u7a0b\u5e8f\u5458\uff0c\u90a3\u4e48\u6700\u65b0\u6700\u725b\u7684\u7f16\u7a0b\u5de5\u5177\uff0c\u5c31\u9700\u8981\u5feb\u901f\u638c\u63e1\n\n\n\u4f7f\u7528\u5de5\u5177:\n\n\nmkdocs+Typora+Github\u5728\u7ebf\u7ba1\u7406Markdown\u5728\u7ebf\u6587\u6863\n\n\n\u4f18\u70b9\uff1a\n\n\n\n\n\u4f7f\u7528\u8fc7Typora\u7684\u670b\u53cb\u90fd\u77e5\u9053\uff0c\u8be5\u8f6f\u4ef6\u662fMarkdown\u652f\u6301\u6bd4\u8f83\u53cb\u597d\uff0c\u652f\u6301\u5373\u65f6\u6d4f\u89c8\u6587\u6863\n\n\nmkdocs\u662f\u5feb\u901f\u6784\u5efa\u5728\u7ebf\uff08html\u683c\u5f0f\uff09\u6587\u6863\u4fbf\u6377\u7684\u5de5\u5177\n\n\nMarkdown\u662f\u76ee\u524d\u5feb\u901f\u7f16\u5199\u6587\u6863\u4ee5\u53ca\u6392\u7248\u53cb\u597d\u800c\u4ee4\u4eba\u559c\u7231\n\n\n\n\n\u6587\u6863\u72b6\u6001\uff1a\n\n\n\u5904\u4e8e\u7f16\u5199\u72b6\u6001\uff0c\u4e4b\u524d\u4f7f\u7528\u4e3a\u77e5\u7b14\u8bb0\u7ba1\u7406\uff0c\u76ee\u524d\u57fa\u672c\u90fd\u90fd\u8f6c\u7ec4\u5408\u7ba1\u7406\u6a21\u5f0f\uff0c\u4fbf\u4e8e\u65e5\u5e38\u5de5\u4f5c\u4f7f\u7528\uff0c\u5982\u679c\u4f60\u5728\u4f7f\u7528\u8be5\u6587\u6863\u53d1\u73b0\u6709\u9519\u8bef\u3001\u4e0d\u5168\u7684\u7ae0\u8282\uff0c\u6b22\u8fce\u63d0\u4ea4issue\u6216\u8005\u53c2\u4e0e\u5230\u7f16\u5199\u4e2d\u3002\u63d0\u4ea4\u5730\u5740:https://github.com/fuuqiu/mdTools\n\n\n\u5728\u7ebf\u6d4f\u89c8\u5730\u5740\n\uff1a\nhttp://mdTools.freelives.cn\n\n\n\u53c2\u4e0e\u8005\uff1a\n\n\nFuuqiu:https://github.com   \n\n\nAweiLoveAndroid:https://github.com/AweiLoveAndroid  #Android\u5927\u795e", 
+            "title": "\u8bf4\u660e\u6587\u6863"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "\u6240\u8c13\u5de5\u6b32\u5584\u5176\u4e8b\u5fc5\u5148\u5229\u5176\u5668\uff0c\u4f60\u60f3\u5f53\u4e00\u4e2a\u4f18\u79c0\u7684\u7a0b\u5e8f\u5458\uff0c\u90a3\u4e48\u6700\u65b0\u6700\u725b\u7684\u7f16\u7a0b\u5de5\u5177\uff0c\u5c31\u9700\u8981\u5feb\u901f\u638c\u63e1", 
+            "title": "\u8bf4\u660e\u6587\u6863"
+        }, 
+        {
+            "location": "/#_2", 
+            "text": "mkdocs+Typora+Github\u5728\u7ebf\u7ba1\u7406Markdown\u5728\u7ebf\u6587\u6863", 
+            "title": "\u4f7f\u7528\u5de5\u5177:"
+        }, 
+        {
+            "location": "/#_3", 
+            "text": "\u4f7f\u7528\u8fc7Typora\u7684\u670b\u53cb\u90fd\u77e5\u9053\uff0c\u8be5\u8f6f\u4ef6\u662fMarkdown\u652f\u6301\u6bd4\u8f83\u53cb\u597d\uff0c\u652f\u6301\u5373\u65f6\u6d4f\u89c8\u6587\u6863  mkdocs\u662f\u5feb\u901f\u6784\u5efa\u5728\u7ebf\uff08html\u683c\u5f0f\uff09\u6587\u6863\u4fbf\u6377\u7684\u5de5\u5177  Markdown\u662f\u76ee\u524d\u5feb\u901f\u7f16\u5199\u6587\u6863\u4ee5\u53ca\u6392\u7248\u53cb\u597d\u800c\u4ee4\u4eba\u559c\u7231", 
+            "title": "\u4f18\u70b9\uff1a"
+        }, 
+        {
+            "location": "/#_4", 
+            "text": "\u5904\u4e8e\u7f16\u5199\u72b6\u6001\uff0c\u4e4b\u524d\u4f7f\u7528\u4e3a\u77e5\u7b14\u8bb0\u7ba1\u7406\uff0c\u76ee\u524d\u57fa\u672c\u90fd\u90fd\u8f6c\u7ec4\u5408\u7ba1\u7406\u6a21\u5f0f\uff0c\u4fbf\u4e8e\u65e5\u5e38\u5de5\u4f5c\u4f7f\u7528\uff0c\u5982\u679c\u4f60\u5728\u4f7f\u7528\u8be5\u6587\u6863\u53d1\u73b0\u6709\u9519\u8bef\u3001\u4e0d\u5168\u7684\u7ae0\u8282\uff0c\u6b22\u8fce\u63d0\u4ea4issue\u6216\u8005\u53c2\u4e0e\u5230\u7f16\u5199\u4e2d\u3002\u63d0\u4ea4\u5730\u5740:https://github.com/fuuqiu/mdTools  \u5728\u7ebf\u6d4f\u89c8\u5730\u5740 \uff1a http://mdTools.freelives.cn", 
+            "title": "\u6587\u6863\u72b6\u6001\uff1a"
+        }, 
+        {
+            "location": "/#_5", 
+            "text": "Fuuqiu:https://github.com     AweiLoveAndroid:https://github.com/AweiLoveAndroid  #Android\u5927\u795e", 
+            "title": "\u53c2\u4e0e\u8005\uff1a"
+        }, 
+        {
+            "location": "/00.\u73af\u5883\u642d\u5efa/", 
+            "text": "IDEA\u642d\u5efaFlutter\u5f00\u53d1\u73af\u5883\n\n\nFlutter SDK\u5b89\u88c5\n\n\n\n\n\u5b98\u65b9\u63d0\u4f9b\u7684\u5b89\u88c5\u5730\u5740:https://flutter.io/get-started/install\n\n\n\n\n\u83b7\u53d6Flutter SDK\n\n\n\n\n\n\n\u4e0b\u8f7d\u4ee5\u4e0b\u5b89\u88c5\u5305\u4ee5\u83b7\u53d6Flutter SDK\u7684\u6700\u65b0beta\u7248\u672c\uff08\u5bf9\u4e8e\u5176\u4ed6\u7248\u672c\u901a\u9053\u548c\u65e7\u7248\u672c\uff0c\u8bf7\u53c2\u9605\nSDK\u5b58\u6863\n\u9875\u9762\u3002\uff09\uff1a\n\n\n\n\n\n\nflutter_macos_v0.5.1-beta.zip\n \n\n\n\n\n\n\n\u5728\u81ea\u5b9a\u4e49\u5e94\u7528\u5b89\u88c5\u4f4d\u7f6e\u89e3\u538b\u6587\u4ef6\uff0c\u4f8b\u5982\uff1a\n\n\n\n\n\n\nShell\n   $ cd ~/development\n   $ unzip ~/Downloads/flutter_macos_v0.5.1-beta.zip\n\n\n\n\n\u914d\u7f6e\u73af\u5883\u53d8\u91cf,\u7ea2\u8272\u5212\u7ebf\u90e8\u5206\u6839\u636e\u6240\u5b89\u88c5\u4f4d\u7f6e\u51b3\u5b9a,\u914d\u7f6e\u5230bin\n\n\n\n\nShell\n   $ open ~/.bash_profile\n\n\n\n\n\n\n\u7b2c\u4e00\u9700\u8981\u6267\u884c\u73af\u5883\u76d1\u5bdf\u547d\u4ee4\n\n\n\n\nShell\n   $ flutter doctor\n\n\n\n\n\u5982\u679c\u6709\u53ef\u80fd\u9700\u8981\u66f4\u65b0\u4e00\u4e0bFlutter\n\n\n\n\nshell\n   $ flutter upgrade #\u66f4\u65b0Flutter SDK\n\n\n\u8dd1\u8d77\u4f18\u79c0\u9879\u76ee\n\n\n\u200b   \u901a\u5e38\u90fd\u4f1a\u7b2c\u4e00\u65f6\u95f4\u8dd1\u8d77\u522b\u4eba\u6bd4\u8f83\u4f18\u79c0\u7684\u9879\u76ee,\u4e00\u822c\u4e0b\u8f7d\u4e0b\u6765\u90fd\u4f1a\u5404\u79cd\u62a5\u9519,SDk\u627e\u4e0d\u5230\u7684.\u8fd9\u91cc\u5148\u5206\u4eab\u4eca\u5929\u9047\u5230\u7684SDK\u4e00\u76f4\u627e\u4e0d\u5230\u7684\u95ee\u9898.\n\n\n\u200b   \n\n\n\u914d\u7f6e\u4e86Dart SDK\u5230\u9879\u76ee\u52a0\u8f7d\u4e2d", 
+            "title": "IDEA\u642d\u5efaFlutter\u5f00\u53d1\u73af\u5883"
+        }, 
+        {
+            "location": "/00.\u73af\u5883\u642d\u5efa/#ideaflutter", 
+            "text": "", 
+            "title": "IDEA\u642d\u5efaFlutter\u5f00\u53d1\u73af\u5883"
+        }, 
+        {
+            "location": "/00.\u73af\u5883\u642d\u5efa/#flutter-sdk", 
+            "text": "\u5b98\u65b9\u63d0\u4f9b\u7684\u5b89\u88c5\u5730\u5740:https://flutter.io/get-started/install", 
+            "title": "Flutter SDK\u5b89\u88c5"
+        }, 
+        {
+            "location": "/00.\u73af\u5883\u642d\u5efa/#flutter-sdk_1", 
+            "text": "\u4e0b\u8f7d\u4ee5\u4e0b\u5b89\u88c5\u5305\u4ee5\u83b7\u53d6Flutter SDK\u7684\u6700\u65b0beta\u7248\u672c\uff08\u5bf9\u4e8e\u5176\u4ed6\u7248\u672c\u901a\u9053\u548c\u65e7\u7248\u672c\uff0c\u8bf7\u53c2\u9605 SDK\u5b58\u6863 \u9875\u9762\u3002\uff09\uff1a    flutter_macos_v0.5.1-beta.zip      \u5728\u81ea\u5b9a\u4e49\u5e94\u7528\u5b89\u88c5\u4f4d\u7f6e\u89e3\u538b\u6587\u4ef6\uff0c\u4f8b\u5982\uff1a    Shell\n   $ cd ~/development\n   $ unzip ~/Downloads/flutter_macos_v0.5.1-beta.zip   \u914d\u7f6e\u73af\u5883\u53d8\u91cf,\u7ea2\u8272\u5212\u7ebf\u90e8\u5206\u6839\u636e\u6240\u5b89\u88c5\u4f4d\u7f6e\u51b3\u5b9a,\u914d\u7f6e\u5230bin   Shell\n   $ open ~/.bash_profile    \u7b2c\u4e00\u9700\u8981\u6267\u884c\u73af\u5883\u76d1\u5bdf\u547d\u4ee4   Shell\n   $ flutter doctor   \u5982\u679c\u6709\u53ef\u80fd\u9700\u8981\u66f4\u65b0\u4e00\u4e0bFlutter   shell\n   $ flutter upgrade #\u66f4\u65b0Flutter SDK", 
+            "title": "\u83b7\u53d6Flutter SDK"
+        }, 
+        {
+            "location": "/00.\u73af\u5883\u642d\u5efa/#_1", 
+            "text": "\u200b   \u901a\u5e38\u90fd\u4f1a\u7b2c\u4e00\u65f6\u95f4\u8dd1\u8d77\u522b\u4eba\u6bd4\u8f83\u4f18\u79c0\u7684\u9879\u76ee,\u4e00\u822c\u4e0b\u8f7d\u4e0b\u6765\u90fd\u4f1a\u5404\u79cd\u62a5\u9519,SDk\u627e\u4e0d\u5230\u7684.\u8fd9\u91cc\u5148\u5206\u4eab\u4eca\u5929\u9047\u5230\u7684SDK\u4e00\u76f4\u627e\u4e0d\u5230\u7684\u95ee\u9898.  \u200b     \u914d\u7f6e\u4e86Dart SDK\u5230\u9879\u76ee\u52a0\u8f7d\u4e2d", 
+            "title": "\u8dd1\u8d77\u4f18\u79c0\u9879\u76ee"
+        }, 
+        {
+            "location": "/01.\u547d\u4ee4\u884c\u4f7f\u7528/", 
+            "text": "\u547d\u4ee4\u884c\u4f7f\u7528\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\n\n\n\n\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\n\u542b\u4e49\n\n\n\n\n\n\n\n\n\n\n--version\n\n\n\u67e5\u770bFlutter\u7248\u672c\n\n\n\n\n\n\n-h\n\u6216\u8005\n--help\n\n\n\u6253\u5370\u6240\u6709\u547d\u4ee4\u884c\u7528\u6cd5\u4fe1\u606f\n\n\n\n\n\n\nanalyze\n\n\n\u5206\u6790\u9879\u76ee\u7684Dart\u4ee3\u7801\u3002\n\n\n\n\n\n\nbuild\n\n\nFlutter\u6784\u5efa\u547d\u4ee4\u3002\n\n\n\n\n\n\nchannel\n\n\n\u5217\u8868\u6216\u5f00\u5173Flutter\u901a\u9053\u3002\n\n\n\n\n\n\nclean\n\n\n\u5220\u9664\u6784\u5efa/\u76ee\u5f55\u3002\n\n\n\n\n\n\nconfig\n\n\n\u914d\u7f6eFlutter\u8bbe\u7f6e\u3002\n\n\n\n\n\n\ncreate\n\n\n\u521b\u5efa\u4e00\u4e2a\u65b0\u7684Flutter\u9879\u76ee\u3002\n\n\n\n\n\n\ndevices\n\n\n\u5217\u51fa\u6240\u6709\u8fde\u63a5\u7684\u8bbe\u5907\u3002\n\n\n\n\n\n\ndoctor\n\n\n\u5c55\u793a\u4e86\u6709\u5173\u5b89\u88c5\u5de5\u5177\u7684\u4fe1\u606f\u3002\n\n\n\n\n\n\ndrive\n\n\n\u4e3a\u5f53\u524d\u9879\u76ee\u8fd0\u884cFlutter\u9a71\u52a8\u7a0b\u5e8f\u6d4b\u8bd5\u3002\n\n\n\n\n\n\nformat\n\n\n\u683c\u5f0f\u4e00\u4e2a\u6216\u591a\u4e2aDart\u6587\u4ef6\u3002\n\n\n\n\n\n\nfuchsia_reload\n\n\n\u5728Fuchsia\u4e0a\u8fdb\u884c\u70ed\u91cd\u8f7d\u3002\n\n\n\n\n\n\nhelp\n\n\n\u663e\u793a\u5e2e\u52a9\u4fe1\u606f\u7684Flutter\u3002\n\n\n\n\n\n\ninstall\n\n\n\u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u5b89\u88c5Flutter\u5e94\u7528\u7a0b\u5e8f\u3002\n\n\n\n\n\n\nlogs\n\n\n\u663e\u793a\u7528\u4e8e\u8fd0\u884cFlutter\u5e94\u7528\u7a0b\u5e8f\u7684\u65e5\u5fd7\u8f93\u51fa\u3002\n\n\n\n\n\n\npackages\n\n\n\u547d\u4ee4\u7528\u4e8e\u7ba1\u7406Flutter\u5305\u3002\n\n\n\n\n\n\nprecache\n\n\n\u586b\u5145\u4e86Flutter\u5de5\u5177\u7684\u4e8c\u8fdb\u5236\u5de5\u4ef6\u7f13\u5b58\u3002\n\n\n\n\n\n\nrun\n\n\n\u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u8fd0\u884c\u4f60\u7684Flutter\u5e94\u7528\u7a0b\u5e8f\u3002\n\n\n\n\n\n\nscreenshot\n\n\n\u4ece\u4e00\u4e2a\u8fde\u63a5\u7684\u8bbe\u5907\u622a\u56fe\u3002\n\n\n\n\n\n\nstop\n\n\n\u505c\u6b62\u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u7684Flutter\u5e94\u7528\u3002\n\n\n\n\n\n\ntest\n\n\n\u5bf9\u5f53\u524d\u9879\u76ee\u7684Flutter\u5355\u5143\u6d4b\u8bd5\u3002\n\n\n\n\n\n\ntrace\n\n\n\u5f00\u59cb\u5e76\u505c\u6b62\u8ddf\u8e2a\u8fd0\u884c\u7684Flutter\u5e94\u7528\u7a0b\u5e8f\u3002\n\n\n\n\n\n\nupgrade\n\n\n\u5347\u7ea7\u4f60\u7684Flutter\u526f\u672c\u3002", 
+            "title": "\u547d\u4ee4\u884c\u4f7f\u7528"
+        }, 
+        {
+            "location": "/01.\u547d\u4ee4\u884c\u4f7f\u7528/#_1", 
+            "text": "", 
+            "title": "\u547d\u4ee4\u884c\u4f7f\u7528"
+        }, 
+        {
+            "location": "/01.\u547d\u4ee4\u884c\u4f7f\u7528/#_2", 
+            "text": "\u5e38\u7528\u547d\u4ee4  \u542b\u4e49      --version  \u67e5\u770bFlutter\u7248\u672c    -h \u6216\u8005 --help  \u6253\u5370\u6240\u6709\u547d\u4ee4\u884c\u7528\u6cd5\u4fe1\u606f    analyze  \u5206\u6790\u9879\u76ee\u7684Dart\u4ee3\u7801\u3002    build  Flutter\u6784\u5efa\u547d\u4ee4\u3002    channel  \u5217\u8868\u6216\u5f00\u5173Flutter\u901a\u9053\u3002    clean  \u5220\u9664\u6784\u5efa/\u76ee\u5f55\u3002    config  \u914d\u7f6eFlutter\u8bbe\u7f6e\u3002    create  \u521b\u5efa\u4e00\u4e2a\u65b0\u7684Flutter\u9879\u76ee\u3002    devices  \u5217\u51fa\u6240\u6709\u8fde\u63a5\u7684\u8bbe\u5907\u3002    doctor  \u5c55\u793a\u4e86\u6709\u5173\u5b89\u88c5\u5de5\u5177\u7684\u4fe1\u606f\u3002    drive  \u4e3a\u5f53\u524d\u9879\u76ee\u8fd0\u884cFlutter\u9a71\u52a8\u7a0b\u5e8f\u6d4b\u8bd5\u3002    format  \u683c\u5f0f\u4e00\u4e2a\u6216\u591a\u4e2aDart\u6587\u4ef6\u3002    fuchsia_reload  \u5728Fuchsia\u4e0a\u8fdb\u884c\u70ed\u91cd\u8f7d\u3002    help  \u663e\u793a\u5e2e\u52a9\u4fe1\u606f\u7684Flutter\u3002    install  \u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u5b89\u88c5Flutter\u5e94\u7528\u7a0b\u5e8f\u3002    logs  \u663e\u793a\u7528\u4e8e\u8fd0\u884cFlutter\u5e94\u7528\u7a0b\u5e8f\u7684\u65e5\u5fd7\u8f93\u51fa\u3002    packages  \u547d\u4ee4\u7528\u4e8e\u7ba1\u7406Flutter\u5305\u3002    precache  \u586b\u5145\u4e86Flutter\u5de5\u5177\u7684\u4e8c\u8fdb\u5236\u5de5\u4ef6\u7f13\u5b58\u3002    run  \u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u8fd0\u884c\u4f60\u7684Flutter\u5e94\u7528\u7a0b\u5e8f\u3002    screenshot  \u4ece\u4e00\u4e2a\u8fde\u63a5\u7684\u8bbe\u5907\u622a\u56fe\u3002    stop  \u505c\u6b62\u5728\u9644\u52a0\u8bbe\u5907\u4e0a\u7684Flutter\u5e94\u7528\u3002    test  \u5bf9\u5f53\u524d\u9879\u76ee\u7684Flutter\u5355\u5143\u6d4b\u8bd5\u3002    trace  \u5f00\u59cb\u5e76\u505c\u6b62\u8ddf\u8e2a\u8fd0\u884c\u7684Flutter\u5e94\u7528\u7a0b\u5e8f\u3002    upgrade  \u5347\u7ea7\u4f60\u7684Flutter\u526f\u672c\u3002", 
+            "title": "\u5e38\u7528\u547d\u4ee4"
+        }, 
+        {
+            "location": "/02.Android\u539f\u751f\u63a7\u4ef6\u6bd4\u8f83/", 
+            "text": "\u539f\u751fAndroid\u63a7\u4ef6\u6bd4\u8f83\n\n\n\u5bf9\u6bd4\u56fe\n\n\n\n\n\n\n\n\nFlutter\u63a7\u4ef6\n\n\nAndroid\u63a7\u4ef6\n\n\n\n\n\n\n\n\n\n\nAppBar\n\n\nActionBar/ToolBar\n\n\n\n\n\n\nListView\n\n\nListView/RecyclerView\n\n\n\n\n\n\nText\n\n\nTextView\n\n\n\n\n\n\nCenter\n\n\nViewGroup\n\n\n\n\n\n\nContainer\n\n\nRelativeLayout\n\n\n\n\n\n\nFloatingActionButton\n\n\nFloatingActionButton(design\u5e93\u91cc\u9762\u7684)\n\n\n\n\n\n\nBottomNavigationBar\n\n\nBottomNavigation(design\u5e93\u91cc\u9762\u7684)\n\n\n\n\n\n\nRaisedButton/Button\n\n\nButton\n\n\n\n\n\n\nColumn\n\n\nLinearLayout\u7684android:orientation=\"vertical\"\n\n\n\n\n\n\nRow\n\n\nandroid:orientation=\"horizontal\"\n\n\n\n\n\n\nDecorationImage\n\n\nImageView\n\n\n\n\n\n\nImage\n\n\nImageView\n\n\n\n\n\n\nStack\n\n\nFrameLayout/RelativeLayout\n\n\n\n\n\n\nAlgin\n\n\nalginParentXXX\u5c5e\u6027\n\n\n\n\n\n\nresizeToAvoidBottomPadding\n\n\nandroid:windowSoftInputMode=\u201dadjustResize\u5c5e\u6027\n\n\n\n\n\n\nSingleChildScrollView\n\n\nScrollView\n\n\n\n\n\n\nCustomScrollerView\n\n\nRecyclerview", 
+            "title": "\u539f\u751fAndroid\u63a7\u4ef6\u6bd4\u8f83"
+        }, 
+        {
+            "location": "/02.Android\u539f\u751f\u63a7\u4ef6\u6bd4\u8f83/#android", 
+            "text": "", 
+            "title": "\u539f\u751fAndroid\u63a7\u4ef6\u6bd4\u8f83"
+        }, 
+        {
+            "location": "/02.Android\u539f\u751f\u63a7\u4ef6\u6bd4\u8f83/#_1", 
+            "text": "Flutter\u63a7\u4ef6  Android\u63a7\u4ef6      AppBar  ActionBar/ToolBar    ListView  ListView/RecyclerView    Text  TextView    Center  ViewGroup    Container  RelativeLayout    FloatingActionButton  FloatingActionButton(design\u5e93\u91cc\u9762\u7684)    BottomNavigationBar  BottomNavigation(design\u5e93\u91cc\u9762\u7684)    RaisedButton/Button  Button    Column  LinearLayout\u7684android:orientation=\"vertical\"    Row  android:orientation=\"horizontal\"    DecorationImage  ImageView    Image  ImageView    Stack  FrameLayout/RelativeLayout    Algin  alginParentXXX\u5c5e\u6027    resizeToAvoidBottomPadding  android:windowSoftInputMode=\u201dadjustResize\u5c5e\u6027    SingleChildScrollView  ScrollView    CustomScrollerView  Recyclerview", 
+            "title": "\u5bf9\u6bd4\u56fe"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/", 
+            "text": "Dart\u57fa\u672c\u8bed\u6cd5\n\n\n\u53d8\u91cf\n\n\n var name = '\u5f20\u4e09' ;\n\n\n\n\n\u5e38\u91cf\n\n\n//\u88abfinal\u6216\u8005const\u4fee\u9970\u7684\u53d8\u91cf\uff0c\u53d8\u91cf\u7c7b\u578b\u53ef\u4ee5\u7701\u7565\u3002\u540c\u65f6\u503c\u4e0d\u80fd\u4fee\u6539\nfinal name = \nFuuqiu\n\n\n\n\n\n\u65ad\u8a00\u51fd\u6570\n\n\n// \u5728\u5f00\u53d1\u8fc7\u7a0b\u4e2d\uff0c \u9664\u975e\u6761\u4ef6\u4e3a\u771f\uff0c\u5426\u5219\u4f1a\u5f15\u53d1\u5f02\u5e38\u3002(\u65ad\u8a00\u5931\u8d25\u5219\u7a0b\u5e8f\u7acb\u523b\u7ec8\u6b62) \u6548\u540c\u4e8e\u65ad\u70b9\u51fd\u6570\nassert(intDefaultValue == null);\n//\u5e38\u91cf\u5982\u679c\u662f\u7c7b\u7ea7\u522b\u7684\uff0c\u8bf7\u4f7f\u7528 static const\nstatic const speed = 100;\n\n\n\n\nDart\u4e2d\u652f\u6301\u4ee5\u4e0b\u7279\u6b8a\u7c7b\u578b\uff1a\n\n\n\n\nnumbers \u6570\u5b57\n\n\nstrings \u5b57\u7b26\u4e32\n\n\nbooleans \u5e03\u5c14\n\n\nlists (also known as arrays) list\u96c6\u5408\uff08\u4e5f\u79f0\u4e3a\u6570\u7ec4\uff09\n\n\nmaps map\u96c6\u5408\n\n\nrunes (for expressing Unicode characters in a string) \u5b57\u7b26\uff08\u7528\u4e8e\u5728\u5b57\u7b26\u4e32\u4e2d\u8868\u793aUnicode\u5b57\u7b26\uff09\n\n\nsymbols \u7b26\u53f7", 
+            "title": "Dart\u57fa\u672c\u8bed\u6cd5"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/#dart", 
+            "text": "", 
+            "title": "Dart\u57fa\u672c\u8bed\u6cd5"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/#_1", 
+            "text": "var name = '\u5f20\u4e09' ;", 
+            "title": "\u53d8\u91cf"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/#_2", 
+            "text": "//\u88abfinal\u6216\u8005const\u4fee\u9970\u7684\u53d8\u91cf\uff0c\u53d8\u91cf\u7c7b\u578b\u53ef\u4ee5\u7701\u7565\u3002\u540c\u65f6\u503c\u4e0d\u80fd\u4fee\u6539\nfinal name =  Fuuqiu", 
+            "title": "\u5e38\u91cf"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/#_3", 
+            "text": "// \u5728\u5f00\u53d1\u8fc7\u7a0b\u4e2d\uff0c \u9664\u975e\u6761\u4ef6\u4e3a\u771f\uff0c\u5426\u5219\u4f1a\u5f15\u53d1\u5f02\u5e38\u3002(\u65ad\u8a00\u5931\u8d25\u5219\u7a0b\u5e8f\u7acb\u523b\u7ec8\u6b62) \u6548\u540c\u4e8e\u65ad\u70b9\u51fd\u6570\nassert(intDefaultValue == null);\n//\u5e38\u91cf\u5982\u679c\u662f\u7c7b\u7ea7\u522b\u7684\uff0c\u8bf7\u4f7f\u7528 static const\nstatic const speed = 100;", 
+            "title": "\u65ad\u8a00\u51fd\u6570"
+        }, 
+        {
+            "location": "/03.Dart\u57fa\u672c\u8bed\u6cd5/#dart_1", 
+            "text": "numbers \u6570\u5b57  strings \u5b57\u7b26\u4e32  booleans \u5e03\u5c14  lists (also known as arrays) list\u96c6\u5408\uff08\u4e5f\u79f0\u4e3a\u6570\u7ec4\uff09  maps map\u96c6\u5408  runes (for expressing Unicode characters in a string) \u5b57\u7b26\uff08\u7528\u4e8e\u5728\u5b57\u7b26\u4e32\u4e2d\u8868\u793aUnicode\u5b57\u7b26\uff09  symbols \u7b26\u53f7", 
+            "title": "Dart\u4e2d\u652f\u6301\u4ee5\u4e0b\u7279\u6b8a\u7c7b\u578b\uff1a"
+        }
+    ]
+}
