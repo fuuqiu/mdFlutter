@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/00.环境搭建/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/01.命令行使用/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/02.Android原生控件比较/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/03.Dart基本语法/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/UI之学/01.HelloWord/</loc>
+     <lastmod>2018-08-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

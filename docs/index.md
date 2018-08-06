@@ -40,4 +40,4 @@ mkdocs+Typora+Github在线管理Markdown在线文档
 
 [Fuuqiu](https://github.com	): 多语言论者
 
-[AweiLoveAndroid](https://github.com/AweiLoveAndroid):	#Android大神
+[阿韦](https://github.com/AweiLoveAndroid):	Android大神
